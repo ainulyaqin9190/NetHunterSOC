@@ -1,0 +1,6 @@
+{
+  "name": "NetHunterSOC",
+  "description": "Network Security Monitoring and SOC Investigation Workbench with evidence-driven detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
